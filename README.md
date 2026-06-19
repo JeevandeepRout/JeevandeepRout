@@ -13,6 +13,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=JeevandeepRout&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=JeevandeepRout&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
