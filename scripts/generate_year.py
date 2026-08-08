@@ -156,7 +156,8 @@ def build_svg(data: dict, username: str) -> str:
             f'<animate attributeName="width" from="0" to="{width:.1f}" begin="{delay:.2f}s" dur="0.40s" fill="freeze"/>'
             f'</rect></clipPath>'
             f'<g clip-path="url(#{clip_id})">'
-            f'<text xml:space="preserve" x="{CHART_X}" y="{y_text:.1f}" class="d-f" font-size="9.2">{s}</text></g>'
+            f'<text xml:space="preserve" x="{CHART_X}" y="{y_text:.1f}" class="d-f" font-size="9.2" '
+            f'textLength="{width:.1f}" lengthAdjust="spacing">{s}</text></g>'
         )
         if wd in WEEKDAY_LABELS:
             row_svgs.append(
