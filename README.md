@@ -92,8 +92,6 @@ One line on what it does and why it exists.
 <img src="assets/headers/header-stats.svg" width="100%" alt="Stats" />
 
 <div align="center">
-  <img src="assets/stats.svg" alt="live GitHub stats" />
-  <br/><br/>
   <img src="assets/activity.svg" width="620" alt="contribution activity, last 12 months" />
   <br/><br/>
   <img src="assets/langs.svg" width="620" alt="top languages, by bytes and by repo" />
@@ -112,11 +110,10 @@ list of things you're reading or tinkering with. Doesn't need to be code.]
 
 <div align="center">
 
-[site](https://your-site.example) &nbsp;&middot;&nbsp;
-[instagram](https://instagram.com/your-handle) &nbsp;&middot;&nbsp;
-[linkedin](https://linkedin.com/in/your-handle) &nbsp;&middot;&nbsp;
-[email](mailto:you@example.com)
+[GitHub](https://github.com/JeevandeepRout) &nbsp;&middot;&nbsp;
+[linkedin](https://linkedin.com/in/jeevandeeprout) &nbsp;&middot;&nbsp;
+[email](mailto:jeevandeeprout07@gmail.com)
 
-<sub>headers and stats above are generated locally and refreshed daily — see <a href="SETUP.md">SETUP.md</a></sub>
+</sub>
 
 </div>
