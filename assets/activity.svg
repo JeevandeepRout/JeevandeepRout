@@ -19,19 +19,19 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.10s" dur="0.45s" fill="freeze"/>
-    <text x="0" y="50" class="strong" font-size="52" font-weight="600">392</text>
+    <text x="0" y="50" class="strong" font-size="52" font-weight="600">56</text>
     <text x="0" y="72" class="mid" font-size="12">contributions in the last year</text>
   </g>
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.45s" fill="freeze"/>
-    <text x="620" y="30" class="strong" font-size="19" text-anchor="end" font-weight="600">144</text>
+    <text x="620" y="30" class="strong" font-size="19" text-anchor="end" font-weight="600">7</text>
     <text x="620" y="47" class="mid" font-size="11" text-anchor="end">active days</text>
   </g>
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="0.42s" dur="0.45s" fill="freeze"/>
-    <text x="620" y="70" class="strong" font-size="19" text-anchor="end" font-weight="600">30</text>
+    <text x="620" y="70" class="strong" font-size="19" text-anchor="end" font-weight="600">31</text>
     <text x="620" y="87" class="mid" font-size="11" text-anchor="end">best week</text>
   </g>
 
@@ -42,8 +42,8 @@
   </clipPath>
 
   <g clip-path="url(#reveal)">
-    <path d="M 0.0 126.9L 12.2 125.1L 24.3 117.6L 36.5 126.9L 48.6 126.9L 60.8 125.1L 72.9 123.2L 85.1 134.4L 97.3 136.3L 109.4 117.6L 121.6 125.1L 133.7 126.9L 145.9 121.3L 158.0 123.2L 170.2 117.6L 182.4 136.3L 194.5 138.1L 206.7 126.9L 218.8 132.5L 231.0 136.3L 243.1 138.1L 255.3 125.1L 267.5 117.6L 279.6 119.5L 291.8 84.0L 303.9 95.2L 316.1 89.6L 328.2 128.8L 340.4 126.9L 352.5 121.3L 364.7 119.5L 376.9 123.2L 389.0 121.3L 401.2 136.3L 413.3 123.2L 425.5 140.0L 437.6 125.1L 449.8 138.1L 462.0 140.0L 474.1 140.0L 486.3 134.4L 498.4 134.4L 510.6 123.2L 522.7 140.0L 534.9 117.6L 547.1 126.9L 559.2 130.7L 571.4 126.9L 583.5 123.2L 595.7 134.4L 607.8 125.1L 620.0 134.4 L 620.0 140.0 L 0.0 140.0 Z" class="wash"/>
-    <path d="M 0.0 126.9L 12.2 125.1L 24.3 117.6L 36.5 126.9L 48.6 126.9L 60.8 125.1L 72.9 123.2L 85.1 134.4L 97.3 136.3L 109.4 117.6L 121.6 125.1L 133.7 126.9L 145.9 121.3L 158.0 123.2L 170.2 117.6L 182.4 136.3L 194.5 138.1L 206.7 126.9L 218.8 132.5L 231.0 136.3L 243.1 138.1L 255.3 125.1L 267.5 117.6L 279.6 119.5L 291.8 84.0L 303.9 95.2L 316.1 89.6L 328.2 128.8L 340.4 126.9L 352.5 121.3L 364.7 119.5L 376.9 123.2L 389.0 121.3L 401.2 136.3L 413.3 123.2L 425.5 140.0L 437.6 125.1L 449.8 138.1L 462.0 140.0L 474.1 140.0L 486.3 134.4L 498.4 134.4L 510.6 123.2L 522.7 140.0L 534.9 117.6L 547.1 126.9L 559.2 130.7L 571.4 126.9L 583.5 123.2L 595.7 134.4L 607.8 125.1L 620.0 134.4" class="line" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 0.0 140.0L 11.9 140.0L 23.8 140.0L 35.8 140.0L 47.7 140.0L 59.6 140.0L 71.5 140.0L 83.5 140.0L 95.4 140.0L 107.3 140.0L 119.2 140.0L 131.2 140.0L 143.1 140.0L 155.0 140.0L 166.9 140.0L 178.8 140.0L 190.8 140.0L 202.7 140.0L 214.6 140.0L 226.5 140.0L 238.5 140.0L 250.4 140.0L 262.3 140.0L 274.2 140.0L 286.2 140.0L 298.1 140.0L 310.0 140.0L 321.9 140.0L 333.8 140.0L 345.8 140.0L 357.7 140.0L 369.6 140.0L 381.5 140.0L 393.5 140.0L 405.4 140.0L 417.3 140.0L 429.2 140.0L 441.2 140.0L 453.1 140.0L 465.0 140.0L 476.9 140.0L 488.8 140.0L 500.8 140.0L 512.7 140.0L 524.6 140.0L 536.5 96.6L 548.5 140.0L 560.4 140.0L 572.3 140.0L 584.2 140.0L 596.2 140.0L 608.1 138.2L 620.0 84.0 L 620.0 140.0 L 0.0 140.0 Z" class="wash"/>
+    <path d="M 0.0 140.0L 11.9 140.0L 23.8 140.0L 35.8 140.0L 47.7 140.0L 59.6 140.0L 71.5 140.0L 83.5 140.0L 95.4 140.0L 107.3 140.0L 119.2 140.0L 131.2 140.0L 143.1 140.0L 155.0 140.0L 166.9 140.0L 178.8 140.0L 190.8 140.0L 202.7 140.0L 214.6 140.0L 226.5 140.0L 238.5 140.0L 250.4 140.0L 262.3 140.0L 274.2 140.0L 286.2 140.0L 298.1 140.0L 310.0 140.0L 321.9 140.0L 333.8 140.0L 345.8 140.0L 357.7 140.0L 369.6 140.0L 381.5 140.0L 393.5 140.0L 405.4 140.0L 417.3 140.0L 429.2 140.0L 441.2 140.0L 453.1 140.0L 465.0 140.0L 476.9 140.0L 488.8 140.0L 500.8 140.0L 512.7 140.0L 524.6 140.0L 536.5 96.6L 548.5 140.0L 560.4 140.0L 572.3 140.0L 584.2 140.0L 596.2 140.0L 608.1 138.2L 620.0 84.0" class="line" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
 
   <rect y="84" width="2" height="56" class="sweep" opacity="0">
@@ -52,7 +52,7 @@
     <set attributeName="opacity" to="0" begin="1.80s"/>
   </rect>
 
-  <circle cx="620.0" cy="134.4" r="4.5" class="strong" stroke="currentColor" stroke-width="2" opacity="0">
+  <circle cx="620.0" cy="84.0" r="4.5" class="strong" stroke="currentColor" stroke-width="2" opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.80s" dur="0.35s" fill="freeze"/>
   </circle>
 </svg>
