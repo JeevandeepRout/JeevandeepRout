@@ -62,9 +62,9 @@
   <g transform="translate(490, 24)">
     <text class="head" x="0" y="0">CONTRIBUTIONS / 24 WEEKS</text>
     <g transform="translate(0, 16)">
-    <path class="spark" d="M 0.0,40.0 L 10.9,40.0 L 21.7,40.0 L 32.6,40.0 L 43.5,40.0 L 54.3,40.0 L 65.2,40.0 L 76.1,40.0 L 87.0,40.0 L 97.8,40.0 L 108.7,40.0 L 119.6,40.0 L 130.4,40.0 L 141.3,40.0 L 152.2,40.0 L 163.0,40.0 L 173.9,5.7 L 184.8,40.0 L 195.7,40.0 L 206.5,40.0 L 217.4,40.0 L 228.3,40.0 L 239.1,38.6 L 250.0,0.0" style="stroke-dasharray:440;stroke-dashoffset:440;"/>
+    <path class="spark" d="M 0.0,40.0 L 10.9,40.0 L 21.7,40.0 L 32.6,40.0 L 43.5,40.0 L 54.3,40.0 L 65.2,40.0 L 76.1,40.0 L 87.0,40.0 L 97.8,40.0 L 108.7,40.0 L 119.6,40.0 L 130.4,40.0 L 141.3,40.0 L 152.2,40.0 L 163.0,40.0 L 173.9,6.9 L 184.8,40.0 L 195.7,40.0 L 206.5,40.0 L 217.4,40.0 L 228.3,40.0 L 239.1,38.6 L 250.0,0.0" style="stroke-dasharray:440;stroke-dashoffset:440;"/>
     <circle class="spark-dot" cx="250.0" cy="0.0" r="3"/></g>
-    <text class="meta" x="0" y="78">total: 53</text>
+    <text class="meta" x="0" y="78">total: 54</text>
     <text class="meta" x="0" y="96">JavaScript 4  C++ 1  Python 1</text>
   </g>
 
