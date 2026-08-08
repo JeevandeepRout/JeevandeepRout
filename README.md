@@ -51,7 +51,6 @@ Currently focused on **software engineering, backend development, databases, and
 |---|---|
 | **Full-Stack Authentication** | Authentication flow with signup, login, protected profile access, MongoDB and Next.js. |
 | **Finance Tracker** | A practical full-stack application for tracking expenses, balances and financial activity. |
-| **Teacher Dashboard** | A management platform for attendance, quizzes, assignments and student statistics. |
 | **Weather App** | A responsive weather application powered by a weather API. |
 
 <img src="./assets/section-activity.svg" width="760" alt="Activity">
