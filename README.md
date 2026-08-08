@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/portrait.svg" width="180" alt="Character-ramp portrait">
-
-<br>
-
 <img src="./assets/header.svg" width="760" alt="Profile header">
 
 <br>
