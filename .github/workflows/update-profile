@@ -1,0 +1,68 @@
+name: Update profile visuals
+
+on:
+  schedule:
+    # 06:17 UTC daily — off the hour on purpose, avoids the top-of-hour pile-up
+    - cron: "17 6 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"           # re-render everything if a generator changes
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Regenerate streak card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_streak.py "${{ github.repository_owner }}" assets/streak.svg
+
+      - name: Regenerate activity card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_activity.py "${{ github.repository_owner }}" assets/activity.svg
+
+      - name: Regenerate languages card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_langs.py "${{ github.repository_owner }}" assets/langs.svg
+
+      - name: Regenerate year-in-review card
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_year.py "${{ github.repository_owner }}" assets/year.svg
+
+      - name: Regenerate section headers
+        run: python scripts/generate_headers.py assets/headers
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          if git diff --cached --quiet; then
+            echo "Nothing changed — skipping commit."
+          else
+            git commit -m "chore: refresh profile visuals [skip ci]"
+            git push
+          fi
