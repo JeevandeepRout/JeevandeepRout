@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="26" viewBox="0 0 620 26"
+     fill="none" font-family="ui-monospace, 'SFMono-Regular', 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" role="img" aria-label="about section">
+  <style>
+    .label { fill: #424a53; }
+    .rule  { stroke: #d8dee4; }
+    @media (prefers-color-scheme: dark) {
+      .label { fill: #f0f6fc; }
+      .rule  { stroke: #30363d; }
+    }
+  </style>
+  <text x="0" y="18" class="label" font-size="16" font-weight="600">about</text>
+  <line x1="66" y1="12.5" x2="620" y2="12.5" class="rule" stroke-width="1"/>
+</svg>
