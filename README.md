@@ -23,7 +23,7 @@
 <img src="assets/headers/header-about.svg" width="100%" alt="About" />
 
 > CS student at Institute of Technical Education and Research · SOA , Odisha, India.<br>
-> Build things worth remembering.
+> Building things worth remembering.
 
 I'm a developer who enjoys turning ideas into practical software, with a focus on **full-stack development, backend systems, and problem-solving**. I'm currently sharpening my **DSA and system design skills** while building projects with **JavaScript, Python, Java, React, Next.js, Node.js, and MongoDB**.
 
