@@ -1,121 +1,93 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<!--Header-->
 <div align="center">
 
-<h1>Jeevandeep Rout</h1>
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=450&size=35&duration=4500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+Jeevandeep+Rout;🧭+Exploring+Software+Development;🛠️+Building+Open+Source+Projects;" alt="Typing SVG" /></a>
+</h1>
 
-<i>Software engineer &middot; builds small, precise things &middot; occasionally overthinks a README</i>
+[LinkedIn](https://linkedin.com/in/jeevandeeprout) &nbsp;·&nbsp;
+[GitHub](https://github.com/JeevandeepRout) &nbsp;·&nbsp;
+[email](mailto:jeevandeeprout07@gmail.com) 
 
 </div>
 
 <br/>
 
+<!--About-->
 <img src="assets/headers/header-about.svg" width="100%" alt="About" />
 
-I'm a developer who likes taking systems apart to see how they fit back
-together — this page is one of those systems. Everything on it is
-generated from data and re-rendered automatically; nothing here is a
-static export from someone else's dashboard.
+> CS student at Institute of Technical Education and Research · SOA , Odisha, India.<br>
+> Build things worth remembering.
 
-Outside of code: [swap this line for two or three things about you — what
-you're learning, what you're building, a hobby, a location, whatever feels
-true].
+I'm a developer who enjoys turning ideas into practical software, with a focus on **full-stack development, backend systems, and problem-solving**. I'm currently sharpening my **DSA and system design skills** while building projects with **JavaScript, Python, Java, React, Next.js, Node.js, and MongoDB**.
+
+Outside of code, I'm usually **gaming, watching movies or anime, or exploring something new in tech**. Based in **Odisha, India**, and always looking for the next thing to build, break, and understand.
+
 
 <br/>
 
+<!--Stack-->
 <img src="assets/headers/header-stack.svg" width="100%" alt="Stack" />
 
-<table>
-<tr>
-<td valign="top" width="33%">
+```yaml
+⌬ Languages: C · C++ · Java · Python · JavaScript · TypeScript
+⌬ Frameworks: React · Next.js · Node.js · Express.js
+⌬ Web: HTML · CSS
+⌬ Database: MongoDB · MySQL
+⌬ Tools: Git · GitHub · VS Code · Ubuntu
+```
 
-**Languages**
-- Python
-- TypeScript
-- Rust
-
-</td>
-<td valign="top" width="33%">
-
-**Tools**
-- Docker
-- PostgreSQL
-- GitHub Actions
-
-</td>
-<td valign="top" width="33%">
-
-**Focus**
-- Systems & tooling
-- Developer experience
-- Small, fast things
-
-</td>
-</tr>
-</table>
-
-<br/>
-
+<!--Projects-->
 <img src="assets/headers/header-projects.svg" width="100%" alt="Projects" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[Full-Stack Authentication System]()** &nbsp;·&nbsp; <samp>next.js, mongodb</samp><br>
+Secure authentication system with signup, login, protected routes, and user profiles.<br>
+Built to explore full-stack authentication and session-based access control.
 
-**[project-one](https://github.com/JeevandeepRout/project-one)**
-One line on what it does and why it exists.
+**[Weather Dashboard](https://github.com/JeevandeepRout/Multi-City-Weather-Dashboard)** &nbsp;·&nbsp; <samp>javascript, api, html, css</samp><br>
+Real-time weather application powered by the OpenWeatherMap API.<br>
+Search cities, view current conditions, and explore weather data through a clean interface.
 
-</td>
-<td width="50%" valign="top">
+**[Expense Tracker](https://github.com/JeevandeepRout/Expense-Tracker)** &nbsp;·&nbsp; <samp>react, javascript, css</samp><br>
+Simple expense management app for tracking income and spending<br>
+Built with a focus on clean UI, practical state management, and everyday usability.
 
-**[project-two](https://github.com/JeevandeepRout/project-two)**
-One line on what it does and why it exists.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[project-three](https://github.com/JeevandeepRout/project-three)**
-One line on what it does and why it exists.
-
-</td>
-<td width="50%" valign="top">
-
-**[project-four](https://github.com/JeevandeepRout/project-four)**
-One line on what it does and why it exists.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
+<!--Stats-->
 <img src="assets/headers/header-stats.svg" width="100%" alt="Stats" />
 
 <div align="center">
-  <img src="assets/streak.svg" alt="current and longest contribution streaks" />
-  <br/><br/>
   <img src="assets/activity.svg" width="620" alt="contribution activity, last 12 months" />
+  <br/><br/>
+  <img src="assets/streak.svg" alt="current and longest contribution streaks" />
   <br/><br/>
   <img src="assets/langs.svg" width="620" alt="top languages, by bytes and by repo" />
   <br/><br/>
   <img src="assets/year.svg" width="620" alt="contribution calendar, last 12 months" />
 </div>
 
+
+
 <br/>
 
+
+<!--Thoughts-Things-->
 <img src="assets/headers/header-thoughts-things.svg" width="100%" alt="Thoughts & Things" />
 
-[Swap this for whatever fits — recent notes, a link to a blog, a running
-list of things you're reading or tinkering with. Doesn't need to be code.]
+> [!NOTE]
+> **🚀 Current Status**
+>
+> Building **real-world full-stack projects** · Learning **modern web technologies** · Exploring **backend & system design** · Growing into a **better software engineer**
 
 <br/>
 
 <div align="center">
-
-[site](https://your-site.example) &nbsp;&middot;&nbsp;
-[instagram](https://instagram.com/your-handle) &nbsp;&middot;&nbsp;
-[linkedin](https://linkedin.com/in/your-handle) &nbsp;&middot;&nbsp;
-[email](mailto:you@example.com)
 
 <sub>headers and stats above are generated locally and refreshed daily — see <a href="SETUP.md">SETUP.md</a></sub>
 
