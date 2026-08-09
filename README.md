@@ -3,11 +3,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-<p align="right">
-  <a href="https://komarev.com/ghpvc/?username=JeevandeepRout">
-    <img src="https://komarev.com/ghpvc/?username=JeevandeepRout&label=Profile%20views&color=276CF5&style=flat-square" alt="JeevandeepRout's profile views" />
-  </a>
-</p>
+
+<a href="https://www.google.com/logos/2010/pacman10-i.html">
+  <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/912d9e1a-454b-42c2-84e6-fb7a7f5f174f/diyx8o6-f03215ba-a1f8-4500-9e91-29e69a259f09.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85MTJkOWUxYS00NTRiLTQyYzItODRlNi1mYjdhN2Y1ZjE3NGYvZGl5eDhvNi1mMDMyMTViYS1hMWY4LTQ1MDAtOWU5MS0yOWU2OWEyNTlmMDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AKR1EnfuUK-K4logwY06HzMp25kca-IZQi4YtSo90sc" width="25" alt="Pacman">
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=JeevandeepRout">
+  <img align="right" src="https://komarev.com/ghpvc/?username=JeevandeepRout&label=Profile%20views&color=276CF5&style=flat-square" alt="Profile views">
+</a>
+
+<br clear="both">
+<br>
 
 <!--Header-->
 <div align="center">
