@@ -88,7 +88,15 @@ Built with a focus on clean UI, practical state management, and everyday usabili
 <br/>
 
 <div align="center">
+<!--luffy-->
+  <img src="https://media.tenor.com/kGe0A0NBA8kAAAAm/one-piece-pixel.webp" 
+    width="170"
+    alt="Luffy"/>
 
 <sub>headers and stats above are generated locally and refreshed daily — see <a href="SETUP.md">SETUP.md</a></sub>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8fff&height=100&section=footer" alt="Bottom Line" width="100%" />
 </div>
