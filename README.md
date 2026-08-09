@@ -3,13 +3,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=JeevandeepRout">
+    <img src="https://komarev.com/ghpvc/?username=JeevandeepRout&label=Profile%20views&color=276CF5&style=flat-square" alt="JeevandeepRout's profile views" />
+  </a>
+</p>
 
 <!--Header-->
 <div align="center">
 
-<h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=450&size=35&duration=4500&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+Jeevandeep+Rout;🧭+Exploring+Software+Development;🛠️+Building+Open+Source+Projects;" alt="Typing SVG" /></a>
-</h1>
+
+<kbd>🌟 Welcome to My GitHub World! 🌟</kbd>
 
 [LinkedIn](https://linkedin.com/in/jeevandeeprout) &nbsp;·&nbsp;
 [GitHub](https://github.com/JeevandeepRout) &nbsp;·&nbsp;
