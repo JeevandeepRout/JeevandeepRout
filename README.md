@@ -85,8 +85,6 @@ Built with a focus on clean UI, practical state management, and everyday usabili
 >
 > Building **real-world full-stack projects** · Learning **modern web technologies** · Exploring **backend & system design** · Growing into a **better software engineer**
 
-<br/>
-
 <div align="center">
 <!--luffy-->
   <img src="https://media.tenor.com/kGe0A0NBA8kAAAAm/one-piece-pixel.webp" 
@@ -96,6 +94,8 @@ Built with a focus on clean UI, practical state management, and everyday usabili
 <sub>headers and stats above are generated locally and refreshed daily — see <a href="SETUP.md">SETUP.md</a></sub>
 
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8fff&height=100&section=footer" alt="Bottom Line" width="100%" />
