@@ -18,7 +18,7 @@
 <!--Header-->
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=450&size=35&duration=4500&pause=1000&color=38C2FF&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+Jeevandeep+Rout;🧭+Exploring+Software+Development;🛠️+Building+Open+Source+Projects;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&weight=450&size=35&duration=4500&pause=1000&color=0078FF&center=true&vCenter=true&width=1000&lines=Hi+There!+👋+I'm+Jeevandeep+Rout;🧭+Exploring+Software+Development;🛠️+Building+Open+Source+Projects;" alt="Typing SVG" /></a>
 
 <kbd>🌟 Welcome to My GitHub World! 🌟</kbd>
 
