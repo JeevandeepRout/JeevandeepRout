@@ -57,9 +57,9 @@ Outside of code, I'm usually **gaming, watching movies or anime, or exploring so
 <!--Projects-->
 <img src="assets/headers/header-projects.svg" width="100%" alt="Projects" />
 
-**[Full-Stack Authentication System]()** &nbsp;·&nbsp; <samp>next.js, mongodb</samp><br>
-Secure authentication system with signup, login, protected routes, and user profiles.<br>
-Built to explore full-stack authentication and session-based access control.
+**[MailAuth](https://github.com/JeevandeepRout/MailAuth)** &nbsp;·&nbsp; <samp>next.js, mongodb</samp><br>
+Secure MERN authentication with email OTP, bcrypt, and JWT cookies.<br>
+Includes password recovery and essential security features.
 
 **[Weather Dashboard](https://github.com/JeevandeepRout/Multi-City-Weather-Dashboard)** &nbsp;·&nbsp; <samp>javascript, api, html, css</samp><br>
 Real-time weather application powered by the OpenWeatherMap API.<br>
