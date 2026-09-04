@@ -109,5 +109,5 @@ Built with a focus on clean UI, practical state management, and everyday usabili
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e8fff&height=100&section=footer" alt="Bottom Line" width="100%" />
+  <img src="assets/waving-footer.svg" alt="Waving-footer" width="100%" />
 </div>
