@@ -94,7 +94,7 @@ Includes password recovery and essential security features.
 > [!NOTE]
 > **🚀 Current Status**
 >
-> Building **real-world full-stack projects** · Learning **modern web technologies** · Exploring **backend & system design** · Growing into a **better software engineer**
+> Building **real-world software projects** · Strengthening **full-stack & backend development** · Exploring **Linux systems, networking & system design** ·  Growing into a **better software engineer**
 
 <div align="center">
 <!--luffy-->
