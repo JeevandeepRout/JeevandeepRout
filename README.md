@@ -57,6 +57,10 @@ Outside of code, I'm usually **gaming, watching movies or anime, or exploring so
 <!--Projects-->
 <img src="assets/headers/header-projects.svg" width="100%" alt="Projects" />
 
+**[Linux Resource Monitoring System](https://github.com/JeevandeepRout/Linux-Resource-Monitoring-System)** &nbsp;·&nbsp; <samp>C++17, TCP/IP, Linux, JSON</samp><br>
+Distributed client-server system for real-time Linux resource monitoring, tracking CPU, memory, disk, and process metrics.<br>
+Features concurrent client handling, threshold-based alerts, a terminal dashboard, and CSV-based metric logging.
+
 **[MailAuth](https://github.com/JeevandeepRout/MailAuth)** &nbsp;·&nbsp; <samp>next.js, mongodb</samp><br>
 Secure MERN authentication with email OTP, bcrypt, and JWT cookies.<br>
 Includes password recovery and essential security features.
@@ -64,10 +68,6 @@ Includes password recovery and essential security features.
 **[Weather Dashboard](https://github.com/JeevandeepRout/Multi-City-Weather-Dashboard)** &nbsp;·&nbsp; <samp>javascript, api, html, css</samp><br>
 Real-time weather application powered by the OpenWeatherMap API.<br>
 Search cities, view current conditions, and explore weather data through a clean interface.
-
-**[Expense Tracker](https://github.com/JeevandeepRout/Expense-Tracker)** &nbsp;·&nbsp; <samp>react, javascript, css</samp><br>
-Simple expense management app for tracking income and spending<br>
-Built with a focus on clean UI, practical state management, and everyday usability.
 
 
 <!--Stats-->
