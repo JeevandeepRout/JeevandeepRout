@@ -61,13 +61,13 @@ Outside of code, I'm usually **gaming, watching movies or anime, or exploring so
 Distributed client-server system for real-time Linux resource monitoring, tracking CPU, memory, disk, and process metrics.<br>
 Features concurrent client handling, threshold-based alerts, a terminal dashboard, and CSV-based metric logging.
 
+**[Resumatch](https://github.com/JeevandeepRout/Resumatch)** &nbsp;·&nbsp; <samp>next.js, mongodb, gemini api</samp><br>
+AI-powered resume analyzer and job matcher with PDF/DOCX parsing and ATS scoring.<br>
+Delivers tailored skill-gap analysis, missing keyword insights, and smart bullet rewriting.
+
 **[MailAuth](https://github.com/JeevandeepRout/MailAuth)** &nbsp;·&nbsp; <samp>next.js, mongodb</samp><br>
 Secure MERN authentication with email OTP, bcrypt, and JWT cookies.<br>
 Includes password recovery and essential security features.
-
-**[Weather Dashboard](https://github.com/JeevandeepRout/Multi-City-Weather-Dashboard)** &nbsp;·&nbsp; <samp>javascript, api, html, css</samp><br>
-Real-time weather application powered by the OpenWeatherMap API.<br>
-Search cities, view current conditions, and explore weather data through a clean interface.
 
 
 <!--Stats-->
